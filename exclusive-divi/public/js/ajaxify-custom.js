@@ -1,0 +1,1 @@
+let ajaxify = new Ajaxify({forms : "form:not(.no-ajaxy)", style : true, selector : "a:not(.ab-item)"});

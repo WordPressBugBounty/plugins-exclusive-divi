@@ -1,0 +1,2852 @@
+# Copyright (C) 2022 Exclusive Divi
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Exclusive Divi 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/"
+"exclusivedivimodules\n"
+"POT-Creation-Date: 2022-12-15 11:02:32+00:00\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/EDMCore/EDMCore.php:1054
+msgid "1"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1055
+msgid "2"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1056
+msgid "3"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1057
+msgid "4"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1058
+msgid "5"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1059
+msgid "6"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1060
+msgid "7"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1061
+msgid "8"
+msgstr ""
+
+#: admin/edm-admin.php:388
+msgid "Live Demo"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:15
+msgid "ED Before/After Image Slider"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:27
+msgid "Slider Content"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:39
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:46
+msgid "Label Text Settings"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:51
+msgid "Handle Slider Settings"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:56
+#: includes/modules/EDMCore/EDMCore.php:788
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:72
+msgid "Label"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:140
+msgid "Before Image"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:144
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:174
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:145
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:175
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:146
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:176
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:150
+msgid "Upload Before Image."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:154
+msgid "Before Image Title Text"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:157
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:164
+msgid "Before"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:165
+msgid "Set a custom before label"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:170
+msgid "After Image"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:183
+msgid "Upload After Image."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:187
+msgid "After Image Title Text"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:190
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:194
+msgid "After"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:195
+msgid "Set a custom after label."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:199
+msgid "Slider Orientation"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:203
+msgid "Horizontal"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:204
+msgid "Vertical"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:208
+msgid "Choose Before After Slider Orientation"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:215
+msgid "Starting Point"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:226
+msgid "How much of the before image is visible when the page loads."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:230
+msgid "Show Image Label Text"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:234
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:252
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:270
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:284
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:298
+#: includes/modules/BusinessHour/BusinessHour.php:91
+#: includes/modules/BusinessHour/BusinessHour.php:117
+#: includes/modules/BusinessHour/BusinessHour.php:129
+#: includes/modules/EDMCore/EDMCore.php:453
+#: includes/modules/EDMCore/EDMCore.php:481
+#: includes/modules/EDMCore/EDMCore.php:711
+#: includes/modules/EDMCore/EDMCore.php:960
+#: includes/modules/EDMCore/EDMCore.php:992
+#: includes/modules/EDMCore/EDMCore.php:1008
+#: includes/modules/EDMCore/EDMCore.php:1023
+#: includes/modules/EDMCore/EDMCore.php:1092
+#: includes/modules/EDMCore/EDMCore.php:1108
+#: includes/modules/EDMCore/EDMCore.php:1139
+#: includes/modules/EDMCore/EDMCore.php:1172
+#: includes/modules/EDMCore/EDMCore.php:1187
+#: includes/modules/EDMCore/EDMCore.php:1245
+#: includes/modules/EDMCore/EDMCore.php:1260
+#: includes/modules/EDMCore/EDMCore.php:1511
+#: includes/modules/EDMCore/EDMCore.php:1837
+#: includes/modules/EDMCore/EDMCore.php:1852
+#: includes/modules/Gallery/Gallery.php:139
+#: includes/modules/Gallery/Gallery.php:177
+#: includes/modules/Gallery/Gallery.php:218
+#: includes/modules/ScrollingText/ScrollingText.php:125
+#: includes/modules/ScrollingText/ScrollingText.php:139
+#: includes/modules/ScrollingText/ScrollingText.php:154
+#: includes/modules/TwitterFeed/TwitterFeed.php:135
+#: includes/modules/TwitterFeed/TwitterFeed.php:148
+#: includes/modules/TwitterFeed/TwitterFeed.php:161
+#: includes/modules/TwitterFeed/TwitterFeed.php:174
+#: includes/modules/TwitterFeed/TwitterFeed.php:187
+#: includes/modules/TwitterFeed/TwitterFeed.php:200
+#: includes/modules/TwitterFeed/TwitterFeed.php:213
+#: includes/modules/TwitterFeed/TwitterFeed.php:226
+#: includes/modules/TypingText/TypingText.php:100
+#: includes/modules/VideoLightBox/VideoLightBox.php:138
+msgid "No"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:235
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:253
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:271
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:285
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:299
+#: includes/modules/BusinessHour/BusinessHour.php:90
+#: includes/modules/BusinessHour/BusinessHour.php:116
+#: includes/modules/BusinessHour/BusinessHour.php:128
+#: includes/modules/EDMCore/EDMCore.php:452
+#: includes/modules/EDMCore/EDMCore.php:480
+#: includes/modules/EDMCore/EDMCore.php:710
+#: includes/modules/EDMCore/EDMCore.php:959
+#: includes/modules/EDMCore/EDMCore.php:991
+#: includes/modules/EDMCore/EDMCore.php:1007
+#: includes/modules/EDMCore/EDMCore.php:1022
+#: includes/modules/EDMCore/EDMCore.php:1091
+#: includes/modules/EDMCore/EDMCore.php:1107
+#: includes/modules/EDMCore/EDMCore.php:1138
+#: includes/modules/EDMCore/EDMCore.php:1171
+#: includes/modules/EDMCore/EDMCore.php:1186
+#: includes/modules/EDMCore/EDMCore.php:1244
+#: includes/modules/EDMCore/EDMCore.php:1259
+#: includes/modules/EDMCore/EDMCore.php:1510
+#: includes/modules/EDMCore/EDMCore.php:1836
+#: includes/modules/EDMCore/EDMCore.php:1851
+#: includes/modules/Gallery/Gallery.php:140
+#: includes/modules/Gallery/Gallery.php:178
+#: includes/modules/Gallery/Gallery.php:219
+#: includes/modules/ScrollingText/ScrollingText.php:126
+#: includes/modules/ScrollingText/ScrollingText.php:140
+#: includes/modules/ScrollingText/ScrollingText.php:155
+#: includes/modules/TwitterFeed/TwitterFeed.php:134
+#: includes/modules/TwitterFeed/TwitterFeed.php:147
+#: includes/modules/TwitterFeed/TwitterFeed.php:160
+#: includes/modules/TwitterFeed/TwitterFeed.php:173
+#: includes/modules/TwitterFeed/TwitterFeed.php:186
+#: includes/modules/TwitterFeed/TwitterFeed.php:199
+#: includes/modules/TwitterFeed/TwitterFeed.php:212
+#: includes/modules/TwitterFeed/TwitterFeed.php:225
+#: includes/modules/TypingText/TypingText.php:101
+#: includes/modules/VideoLightBox/VideoLightBox.php:139
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:243
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:261
+msgid "Control Label Display."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:248
+msgid "No Overlay"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:266
+msgid "Move Slider on Hover"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:276
+msgid "Move Before After Image Slider on Hover"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:280
+msgid "Move with handle only"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:290
+msgid "Allow a user to swipe anywhere on the image to control slider movement."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:294
+msgid "Click to move"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:304
+msgid ""
+"Allow a user to click (or tap) anywhere on the image to move the slider to "
+"that location."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:310
+msgid "Handle Border Color"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:316
+msgid "Here you can define a custom border color for the handle slider."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:319
+msgid "Handle Border Radius"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:337
+msgid "Handle Background Color"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:342
+msgid "Here you can define a custom background color for the handle slider."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:345
+msgid "Arrow Color"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:351
+msgid "Here you can define a custom arrow color for the handle slider."
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:355
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/modules/BeforeAfterImageSlider/BeforeAfterImageSlider.php:362
+msgid "Here you can define a custom color for the overlay"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:16
+msgid "ED Business Hour"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:22
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:17
+#: includes/modules/Charts/DropCap.php:26
+#: includes/modules/DropCap/DropCap.php:26
+#: includes/modules/TwitterFeed/TwitterFeed.php:44
+msgid "Content"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:23
+msgid "Settings"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:28
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:24
+msgid "General"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:29
+#: includes/modules/BusinessHour/BusinessHour.php:51
+#: includes/modules/BusinessHour/BusinessHour.php:73
+msgid "Title"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:30
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:109
+#: includes/modules/MouseParallax/MouseParallax.php:117
+msgid "Title Text"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:32
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:23
+msgid "Day & Time"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:36
+#: includes/modules/BusinessHour/BusinessHour.php:55
+#: includes/modules/BusinessHour/BusinessHour.php:455
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:27
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:43
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:61
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:223
+msgid "Day"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:39
+#: includes/modules/BusinessHour/BusinessHour.php:59
+#: includes/modules/BusinessHour/BusinessHour.php:470
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:30
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:47
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:68
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:242
+msgid "Time"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:43
+#: includes/modules/BusinessHour/BusinessHour.php:63
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:34
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:51
+msgid "Separator"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:44
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:35
+msgid "Border"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:74
+msgid "Define the title text your for business hour."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:76
+msgid "Business Hour"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:83
+msgid "Show Title"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:84
+msgid "Here you can choose whether title should be used."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:95
+msgid "Item Spacing Bottom"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:96
+msgid "Here you can define a custom spacing at the bottom of each item."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:109
+msgid "Show Text Separator"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:110
+msgid ""
+"Here you can choose whether a separator should be used between day and time."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:121
+msgid "Show Item Divider"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:122
+msgid ""
+"Here you can choose whether a divider should be used at the bottom of each "
+"item."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:133
+#: includes/modules/Divider/Divider.php:98
+msgid "Divider Type"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:134
+msgid "Select item divider type."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:139
+#: includes/modules/BusinessHour/BusinessHour.php:247
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:85
+#: includes/modules/Divider/Divider.php:147
+#: includes/modules/EDMCore/EDMCore.php:1576
+msgid "Solid"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:140
+#: includes/modules/BusinessHour/BusinessHour.php:248
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:86
+#: includes/modules/Divider/Divider.php:150
+#: includes/modules/EDMCore/EDMCore.php:1579
+msgid "Double"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:141
+#: includes/modules/BusinessHour/BusinessHour.php:249
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:87
+#: includes/modules/Divider/Divider.php:149
+#: includes/modules/EDMCore/EDMCore.php:1578
+msgid "Dotted"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:142
+#: includes/modules/BusinessHour/BusinessHour.php:250
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:88
+#: includes/modules/Divider/Divider.php:148
+#: includes/modules/EDMCore/EDMCore.php:1577
+msgid "Dashed"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:143
+#: includes/modules/BusinessHour/BusinessHour.php:251
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:89
+msgid "Curved"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:144
+#: includes/modules/BusinessHour/BusinessHour.php:252
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:90
+msgid "Zigzag"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:151
+#: includes/modules/Divider/Divider.php:178
+msgid "Divider Color"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:152
+msgid "Here you can define a custom color for your item divider."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:161
+msgid "Divider Weight"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:162
+msgid "Here you can define a custom depth for your item divider."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:177
+msgid "Divider Height"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:178
+msgid "Here you can define a custom height for your item divider."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:198
+msgid "Day Text Width"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:199
+msgid "Here you can define a custom width for your day text."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:213
+msgid "Time Text Width"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:214
+msgid "Here you can define a custom width for your time text."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:228
+#: includes/modules/BusinessHour/BusinessHour.php:325
+#: includes/modules/DropCap/DropCap.php:122
+msgid "Padding"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:229
+msgid "Here you can define a custom padding for each item."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:240
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:77
+msgid "Separator Type"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:241
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:78
+msgid "Select text separator type."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:259
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:94
+msgid "Separator Spacing"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:260
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:95
+msgid "Define separator both side spacing."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:276
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:111
+msgid "Separator Color"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:277
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:112
+msgid "Here you can define a custom color for your text separator."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:287
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:122
+msgid "Separator Weight"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:288
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:123
+msgid "Here you can define a custom depth for your text separator"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:304
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:139
+msgid "Separator Height"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:305
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:140
+msgid "Here you can define a custom height for your text separator"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:326
+msgid "Here you can define a padding for your title."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:334
+msgid "Spacing Bottom"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:335
+msgid "Here you can define a custom spacing at the bottom of the title."
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:354
+#: includes/modules/BusinessHour/BusinessHour.php:393
+msgid "Item"
+msgstr ""
+
+#: includes/modules/BusinessHour/BusinessHour.php:413
+msgid "Item Box Shadow"
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:12
+msgid "Business Hour Item"
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:36
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:206
+msgid "Box Shadow"
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:62
+msgid "Define the day your for business hour."
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:69
+msgid "Define the time your for business hour."
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:84
+msgid "Relative to Parent"
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:162
+msgid "Admin Label"
+msgstr ""
+
+#: includes/modules/BusinessHourChild/BusinessHourChild.php:164
+msgid "This will change the label of the item"
+msgstr ""
+
+#: includes/modules/Charts/DropCap.php:15
+#: includes/modules/DropCap/DropCap.php:15
+msgid "ED Drop Cap"
+msgstr ""
+
+#: includes/modules/Charts/DropCap.php:43
+#: includes/modules/DropCap/DropCap.php:43
+msgid "Drop Cap"
+msgstr ""
+
+#: includes/modules/Charts/DropCap.php:88
+#: includes/modules/DropCap/DropCap.php:95
+msgid "Drop cap letter"
+msgstr ""
+
+#: includes/modules/Charts/DropCap.php:92
+#: includes/modules/Charts/DropCap.php:93
+#: includes/modules/DropCap/DropCap.php:99
+#: includes/modules/DropCap/DropCap.php:100
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:113
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:114
+#: includes/modules/MouseParallax/MouseParallax.php:121
+#: includes/modules/MouseParallax/MouseParallax.php:122
+msgid "Your Title Goes Here"
+msgstr ""
+
+#: includes/modules/Charts/DropCap.php:100
+#: includes/modules/DropCap/DropCap.php:107
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:121
+#: includes/modules/MouseParallax/MouseParallax.php:129
+msgid ""
+"Your content goes here. Edit or remove this text inline or in the module "
+"Content settings. You can also style every aspect of this content in the "
+"module Design settings and even apply custom CSS to this text in the module "
+"Advanced settings."
+msgstr ""
+
+#: includes/modules/Charts/DropCap.php:101
+#: includes/modules/DropCap/DropCap.php:108
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:122
+#: includes/modules/MouseParallax/MouseParallax.php:130
+msgid "Input the main text content for your module here."
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:15
+msgid "ED Divider"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:26
+msgid "Divider Content"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:34
+msgid "Divider Styling"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:38
+msgid "Divider Icon"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:42
+#: includes/modules/Divider/Divider.php:59
+msgid "Divider Title"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:102
+msgid "Only Divider Line"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:103
+msgid "Divider Line With Text"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:104
+msgid "Divider Liner With Icon"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:109
+msgid "Here you can control text or icon display with Divider"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:113
+msgid "Divider Text"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:122
+msgid "Here you can set divider text"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:126
+msgid "Icon"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:139
+msgid "Here you can set divider icon"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:143
+msgid "Select Divider Line Style"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:151
+#: includes/modules/EDMCore/EDMCore.php:1581
+msgid "Ridge"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:152
+#: includes/modules/EDMCore/EDMCore.php:1580
+msgid "Groove"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:153
+#: includes/modules/EDMCore/EDMCore.php:1582
+msgid "Inset"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:154
+#: includes/modules/EDMCore/EDMCore.php:1583
+msgid "Outset"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:160
+#: includes/modules/Gallery/Gallery.php:95
+msgid "Here you can choose Divider Line Type"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:164
+msgid "Divider Thickness."
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:175
+msgid "Here you can choose Divider Line Weight"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:184
+msgid "Here you can control Divider Line Color"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:188
+msgid "Icon Position"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:192
+#: includes/modules/MultiButton/MultiButton.php:52
+#: includes/modules/TwitterFeed/TwitterFeed.php:455
+msgid "Center"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:193
+#: includes/modules/EDMCore/EDMCore.php:1359
+#: includes/modules/MultiButton/MultiButton.php:51
+#: includes/modules/ScrollingText/ScrollingText.php:111
+#: includes/modules/TwitterFeed/TwitterFeed.php:453
+msgid "Left"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:194
+#: includes/modules/EDMCore/EDMCore.php:1360
+#: includes/modules/MultiButton/MultiButton.php:53
+#: includes/modules/ScrollingText/ScrollingText.php:112
+#: includes/modules/TwitterFeed/TwitterFeed.php:454
+msgid "Right"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:202
+msgid "Here you can select divider icon position"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:206
+#: includes/modules/EDMCore/EDMCore.php:1422
+#: includes/modules/VideoLightBox/VideoLightBox.php:178
+msgid "Icon Color"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:214
+msgid "Here you can define a custom color for your icon."
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:218
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/modules/Divider/Divider.php:233
+msgid "Here you can define a icon font size."
+msgstr ""
+
+#: includes/modules/DropCap/DropCap.php:59
+msgid "Body"
+msgstr ""
+
+#: includes/modules/DropCap/DropCap.php:114
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: includes/modules/DropCap/DropCap.php:116
+#: includes/modules/GlitchText/GlitchText.php:139
+msgid "Select a color for the text used for the glitch style."
+msgstr ""
+
+#: includes/modules/DropCap/DropCap.php:123
+msgid "Here you can define a custom padding for dropcap text."
+msgstr ""
+
+#: includes/modules/DropCap/DropCap.php:132
+msgid "Margin"
+msgstr ""
+
+#: includes/modules/DropCap/DropCap.php:133
+msgid "Here you can define a custom margin for dropcap text."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:20
+msgid ""
+"Adjust the background style of this element by customizing the background "
+"color"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:33
+msgid "gradient"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:44
+msgid "image"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:55
+#: includes/modules/EDMCore/EDMCore.php:1434
+#: includes/modules/EDMCore/EDMCore.php:1698
+#: includes/modules/EDMCore/EDMCore.php:1788
+msgid "Background"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:427
+msgid " Position"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:428
+msgid "Select "
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:428
+msgid " placement."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:434
+#: includes/modules/TwitterFeed/TwitterFeed.php:314
+msgid "Left Top"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:435
+#: includes/modules/TwitterFeed/TwitterFeed.php:315
+msgid "Left Bottom"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:436
+#: includes/modules/TwitterFeed/TwitterFeed.php:316
+msgid "Right Top"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:437
+#: includes/modules/TwitterFeed/TwitterFeed.php:317
+msgid "Right Bottom"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:443
+#: includes/modules/EDMCore/EDMCore.php:1502
+msgid "Use Horizontal Position Center"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:444
+#: includes/modules/EDMCore/EDMCore.php:475
+msgid "If enabled "
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:444
+msgid " will be in horizontally center position."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:458
+msgid "Horizontal Offset"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:459
+msgid " Horizontal offset value."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:474
+msgid "Use Vertical Position Center"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:475
+msgid " will be in vertically center position."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:489
+msgid "Vertical Offset"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:490
+msgid " vertical offset value."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:511
+msgid " Padding"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:512
+msgid ""
+"Padding adds extra space to the inside of the element, increasing the "
+"distance between the edge of the element and its inner contents."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:705
+msgid "Show Overlay on Hover"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:706
+msgid "Enable overlay during hover."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:719
+msgid "Overlay Hover Speed"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:720
+msgid "Set how long it will take for the overlay to be visible"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:734
+msgid "Overlay Icon"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:735
+msgid "Select icon for the overlay"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:743
+msgid "Overlay Icon Color"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:744
+msgid "Here you can define a custom color for your overlay icon."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:753
+msgid "Overlay Icon Size"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:754
+msgid "Here you can define a icon size for your overlay icon."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:768
+msgid "Overlay Icon Opacity"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:769
+msgid ""
+"Select the opacity of the overlay icon. Set the value from 0 - 1. The lower "
+"value, the more transparent."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:935
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:936
+msgid "Here you can define sliding Speed."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:952
+msgid "Autoplay"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:953
+msgid "Here you can choose whether autoplay should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:966
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:967
+msgid "Here you can define sliding autoplay speed for the carousel."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:982
+msgid "Use Navigation"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:983
+msgid "Here you can choose whether navigation should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:998
+msgid "Use Pagination"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:999
+msgid "Here you can choose whether pagination should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1014
+msgid "Use Fixed Width Slide"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1015
+msgid "Here you can choose whether fixed width slider item should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1029
+msgid "Slide Width"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1030
+msgid "Define fixed width for the slides."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1046
+msgid "Slides To Show"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1047
+msgid "Define how many items you want to display in the carousel."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1067
+msgid "Slide Spacing"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1068
+msgid "Here you can define spaces between carousel items."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1083
+msgid "Apply Spacing on First & Last Item"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1084
+msgid "If enable slide spacing will be applied to the first and last item."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1099
+msgid "Infinite looping"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1100
+msgid "Choose whether the endless of times sliding should be played or not."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1114
+msgid "Sliding CSS Transition"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1115
+msgid "Define sliding CSS transition during the carousel animation."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1121
+msgid "linear"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1122
+msgid "ease-in"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1123
+msgid "ease-in-out"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1129
+msgid "Swipe"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1130
+msgid "Here you can choose whether carousel swipe should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1145
+msgid "Items to Scroll"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1146
+msgid "Define how many slides to move at once."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1163
+msgid "Vertical Mode"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1164
+msgid "Here you can choose whether carousel vertical mode should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1178
+#: includes/modules/Gallery/Gallery.php:212
+msgid "Center Mode"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1179
+msgid "Here you can choose whether center mode should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1193
+msgid "Center Mode Type"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1194
+msgid "Define center mode type from the list."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1200
+msgid "Classic"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1201
+msgid "Highlighted"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1208
+msgid "Center Padding"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1209
+msgid "Define side padding when in center mode."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1232
+msgid "Wait For Animate"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1233
+msgid ""
+"Ignores requests to advance the slide while animating\n"
+"\t\t\t\t."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1251
+msgid "Use Custom Cursor"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1252
+msgid "Here you can choose whether custom cursor should be used."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1266
+msgid "Cursor Name"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1267
+msgid "Define cursor name from the list."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1273
+msgid "Default"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1274
+#: includes/modules/EDMCore/EDMCore.php:1584
+#: includes/modules/EDMCore/EDMCore.php:2922
+msgid "None"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1275
+msgid "Grab"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1276
+msgid "Pointer"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1277
+msgid "Move"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1278
+msgid "Pizza"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1279
+msgid "Burger"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1286
+msgid "Wrapper Spacing Top"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1287
+msgid "Define spacing at the top of the carousel."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1303
+msgid "Wrapper Spacing Bottom"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1304
+msgid "Define spacing at the bottom of the carousel."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1321
+#: includes/modules/EDMCore/EDMCore.php:1639
+msgid "Type"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1322
+msgid "Define navigation type."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1329
+msgid "Type A"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1330
+msgid "Type B"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1336
+msgid "Vertical Placement"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1337
+msgid "Define navigation vertical placement."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1344
+#: includes/modules/ProgressBar/ProgressBar.php:60
+msgid "Top"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1345
+#: includes/modules/ProgressBar/ProgressBar.php:62
+msgid "Bottom"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1351
+msgid "Horizontal Placement"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1352
+msgid "Define navigation horizontal placement."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1366
+#: includes/modules/EDMCore/EDMCore.php:1710
+msgid "Height"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1367
+msgid "Here you can define custom height for the navigation buttons."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1385
+#: includes/modules/EDMCore/EDMCore.php:1727
+#: includes/modules/EDMCore/EDMCore.php:1808
+msgid "Width"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1386
+msgid "Here you can define custom width for the navigation buttons."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1404
+#: includes/modules/VideoLightBox/VideoLightBox.php:200
+#: includes/modules/VideoLightBox/VideoLightBox.php:211
+msgid "Icon Size"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1405
+msgid "Define icon size for the navigation."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1423
+msgid "Pick a color for the navigation icon."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1435
+msgid "Pick a color to use for navigation background."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1446
+msgid "Skew"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1447
+msgid "Define a value to skew navigation buttons in a two-dimensional space."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1465
+msgid "Spacing Between"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1466
+msgid "Define spacing between navigation buttons."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1484
+#: includes/modules/EDMCore/EDMCore.php:1755
+msgid "Vertical Position"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1485
+msgid "Define a value for the navigation vertical placement."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1503
+msgid "Here you can choose whether navigation should be horizontal center."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1517
+msgid "Horizontal Position"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1518
+msgid "Define a value for the navigation horizontal placement."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1538
+msgid "Border Width"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1539
+msgid "Define border width for the navigation."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1556
+msgid "Border Color"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1557
+msgid "Pick a color to use for navigation border."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1568
+msgid "Border Type"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1569
+msgid ""
+"Borders support various different styles, each of which will change the "
+"shape of the border element."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1591
+msgid "Prev Icon"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1592
+msgid "Define custom icon for the prev navigation button."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1603
+#: includes/modules/EDMCore/EDMCore.php:1627
+#: includes/modules/EDMCore/EDMCore.php:1744
+msgid "Border Radius"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1604
+msgid ""
+"Here you can control the corner radius of the prev nav. Enable the link icon "
+"to control all four corners at once, or disable to define custom values for "
+"each."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1615
+msgid "Next Icon"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1616
+msgid "Define custom icon for the next navigation button."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1628
+msgid ""
+"Here you can control the corner radius of the next nav. Enable the link icon "
+"to control all four corners at once, or disable to define custom values for "
+"each."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1640
+msgid "Define pagination type from the list."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1647
+msgid "Dot"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1648
+msgid "Number"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1654
+#: includes/modules/TwitterFeed/TwitterFeed.php:392
+msgid "Alignment"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1655
+msgid "Align pagination to the left, right or center."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1669
+#: includes/modules/EDMCore/EDMCore.php:1798
+#: includes/modules/GlitchText/GlitchText.php:137
+msgid "Text Color"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1670
+msgid "Pick a color to use for the pagination text."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1681
+msgid "Text Size"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1682
+msgid "Define a size to use for the pagination text."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1699
+msgid "Pick a color to use for the pagination background."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1711
+msgid "Define a height for the pagination dots."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1728
+msgid "Define a width for the pagination dots."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1745
+msgid ""
+"Here you can control the corner radius of the dots. Enable the link icon to "
+"control all four corners at once, or disable to define custom values for "
+"each."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1756
+msgid "Define a value for the pagination vertical placement."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1771
+msgid "Spacing"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1772
+msgid "Define spacing between pagination dots."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1789
+msgid "Pick a color to use for the active pagination dot."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1799
+msgid "Pick a color to use for the active pagination text."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1809
+msgid "Define a width for the active pagination dot."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1828
+msgid "Open Image in Lightbox"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1829
+msgid "Here you can choose whether image should be opened with lightbox."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1846
+msgid "Equalize Item Height"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:1849
+msgid "Enable this to Equalize all Carousel items with same height."
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2923
+msgid "Zoom In"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2924
+msgid "Zoom Out"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2925
+msgid "Pulse"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2926
+msgid "Bounce"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2927
+msgid "Flash"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2928
+msgid "Rubber Band"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2929
+msgid "Shake"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2930
+msgid "Swing"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2931
+msgid "Tada"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2932
+msgid "Wobble"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2933
+msgid "Jello"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2934
+msgid "Heart Beat"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2935
+msgid "Bounce In"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2936
+msgid "Fade In"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2937
+msgid "Flip"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2938
+msgid "Rotate In"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2939
+msgid "Slide In Up"
+msgstr ""
+
+#: includes/modules/EDMCore/EDMCore.php:2940
+msgid "Slide In Down"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:15
+msgid "ED Mouse Parallax"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:26
+#: includes/modules/MouseParallax/MouseParallax.php:27
+msgid "Mouse Parallax Content"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:44
+#: includes/modules/MouseParallax/MouseParallax.php:45
+msgid "Mouse Parallax Title"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:132
+#: includes/modules/MouseParallax/MouseParallax.php:140
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:58
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:59
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:133
+#: includes/modules/MouseParallax/MouseParallax.php:141
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:60
+msgid "Input your desired button text."
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:140
+#: includes/modules/MouseParallax/MouseParallax.php:148
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:67
+msgid "Button Link URL"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:144
+#: includes/modules/MouseParallax/MouseParallax.php:152
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:71
+msgid "Input the destination URL for your button."
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:149
+#: includes/modules/MouseParallax/MouseParallax.php:157
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:76
+msgid "Button Link Target"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:153
+#: includes/modules/MouseParallax/MouseParallax.php:161
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:154
+#: includes/modules/MouseParallax/MouseParallax.php:162
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:157
+#: includes/modules/MouseParallax/MouseParallax.php:165
+msgid "Here you can choose whether or not your link opens in a new window"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:161
+#: includes/modules/MouseParallax/MouseParallax.php:169
+msgid "Button Alignment"
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:162
+#: includes/modules/MouseParallax/MouseParallax.php:170
+msgid "Align your button to the left, right or center of the module."
+msgstr ""
+
+#: includes/modules/ExpandingCTA/ExpandingCTA.php:168
+#: includes/modules/MouseParallax/MouseParallax.php:176
+msgid "Here you can define the alignment of Button"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:15
+msgid "ED Fancy Text"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:25
+#: includes/modules/FancyText/FancyText.php:140
+msgid "Fancy Text"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:27
+msgid "Animation Settings"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:36
+msgid "Fancy Text Spacing"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:53
+msgid "Fancy Alignment"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:70
+msgid "Before Fancy"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:86
+msgid "Fancy"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:103
+msgid "After Fancy"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:131
+#: includes/modules/HighlightedText/HighlightedText.php:54
+#: includes/modules/HighlightedText/HighlightedText.php:72
+msgid "Before Text"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:134
+msgid "Text appear before the fancy text."
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:143
+#: includes/modules/TypingText/TypingText.php:87
+msgid "Add your text for Typing effect. Use \"|\" as a separator."
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:149
+#: includes/modules/HighlightedText/HighlightedText.php:62
+#: includes/modules/HighlightedText/HighlightedText.php:91
+msgid "After Text"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:152
+msgid "Text appear after the fancy text."
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:160
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:165
+msgid "bounce"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:166
+msgid "flash"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:167
+msgid "pulse"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:168
+msgid "rubberBand"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:169
+msgid "shake"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:170
+msgid "swing"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:171
+msgid "tada"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:172
+msgid "wobble"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:173
+msgid "bounceIn"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:174
+msgid "bounceInDown"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:175
+msgid "bounceInLeft"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:176
+msgid "bounceInRight"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:177
+msgid "bounceInUp"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:178
+msgid "fadeIn"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:179
+msgid "fadeInDown"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:180
+msgid "fadeInDownBig"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:181
+msgid "fadeInLeft"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:182
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:183
+msgid "fadeInRight"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:184
+msgid "fadeInRightBig"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:185
+msgid "fadeInUp"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:186
+msgid "fadeInUpBig"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:187
+msgid "flip"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:188
+msgid "flipInX"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:189
+msgid "flipInY"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:190
+msgid "rotateIn"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:191
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:192
+msgid "rotateInDownRight"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:193
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:194
+msgid "rotateInUpRight"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:195
+msgid "zoomIn"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:196
+msgid "zoomInDown"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:197
+msgid "zoomInLeft"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:198
+msgid "zoomInRight"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:199
+msgid "zoomInUp"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:200
+msgid "lightSpeedIn"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:201
+msgid "rollIn"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:206
+msgid "Speed (in ms)"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:221
+msgid "Text Padding"
+msgstr ""
+
+#: includes/modules/FancyText/FancyText.php:222
+msgid "Define custom padding for the fancy text."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:15
+msgid "ED Gallery"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:26
+msgid "Gallery Content"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:30
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:63
+msgid "Images"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:64
+msgid "Choose the images that you would like to appear in the image gallery."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:85
+msgid "Layout"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:89
+msgid "Carousel"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:90
+msgid "Masonry"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:99
+msgid "Gutter"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:112
+msgid "Choose padding between the slider items."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:117
+msgid "Number of columns"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:129
+msgid "Choose number of columns in the slider."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:133
+msgid "Auto Slide"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:145
+#: includes/modules/Gallery/Gallery.php:183
+#: includes/modules/Gallery/Gallery.php:224
+msgid "Enable slider to auto move."
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:152
+msgid "Auto Slide Speed (in ms)"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:171
+msgid "Infinite Slide"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:190
+msgid "Slide Speed (in ms)"
+msgstr ""
+
+#: includes/modules/Gallery/Gallery.php:230
+msgid "Center Mode (in px)"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:15
+msgid "ED Glitch Text"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:26
+msgid "Glitch Content"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:31
+msgid "Glitch Settings"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:40
+msgid "Glitch Colors"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:56
+msgid "Glitch"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:109
+msgid "Glitch Text"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:118
+msgid "Select Glitch Style"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:122
+msgid "Style One"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:123
+msgid "Style Two"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:124
+msgid "Style Three"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:125
+msgid "Style Four"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:126
+msgid "Style Five"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:131
+msgid "Choose Glitch Styling"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:146
+msgid "Glitch Accent Color One"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:148
+msgid ""
+"Select color one to use for the top part of the text with the glitch effect."
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:155
+msgid "Glitch Accent Color Two"
+msgstr ""
+
+#: includes/modules/GlitchText/GlitchText.php:157
+msgid ""
+"Select color two to use for the bottom part of the text with the glitch "
+"effect."
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:15
+msgid "ED Gradient Text"
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:26
+msgid "Gradient Content"
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:43
+msgid "Gradient"
+msgstr ""
+
+#: includes/modules/GradientText/GradientText.php:112
+msgid "Gradient Text"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:15
+msgid "ED Highlighted Text"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:21
+#: includes/modules/HighlightedText/HighlightedText.php:29
+#: includes/modules/HighlightedText/HighlightedText.php:58
+#: includes/modules/HighlightedText/HighlightedText.php:81
+msgid "Highlighted Text"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:22
+msgid "Highlighted Styling"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:34
+msgid "Highlighted Typography"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:76
+msgid "Before Text entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:85
+msgid "Hightlighted Text entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:95
+msgid "After Text entered here will appear inside the module."
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:100
+msgid "Select Heading Tag"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:102
+msgid "Select the heading tag, which you would like to use"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:107
+msgid "H1"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:108
+msgid "H2"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:109
+msgid "H3"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:110
+msgid "H4"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:111
+msgid "H5"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:112
+msgid "H6"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:113
+msgid "P"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:114
+msgid "Span"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:122
+msgid "Select Highlighted Text Style"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:127
+msgid "Here you can select Highlighted Text styles."
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:129
+msgid "Underline Highlighted"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:130
+msgid "Background Highlighted"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:131
+msgid "Strikethrough Highlighted"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:140
+msgid "Select Color"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:142
+msgid "Select a suitable color to use as highlight for the text."
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:152
+msgid "Stroke Width"
+msgstr ""
+
+#: includes/modules/HighlightedText/HighlightedText.php:154
+msgid "Adjust the width of the stroke added for the highlighted text."
+msgstr ""
+
+#: includes/modules/MouseParallax/MouseParallax.php:15
+msgid "ED Scroll Image"
+msgstr ""
+
+#: includes/modules/MultiButton/MultiButton.php:20
+msgid "ED Multi Button"
+msgstr ""
+
+#: includes/modules/MultiButton/MultiButton.php:28
+msgid "Display Settings"
+msgstr ""
+
+#: includes/modules/MultiButton/MultiButton.php:46
+msgid "Align Buttons"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:12
+msgid "Button Grid"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:15
+msgid "New Button"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:16
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:25
+msgid "Button Settings"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:26
+msgid "Text Settings"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:32
+msgid "CSS ID & Classes"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:43
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:106
+msgid "Button Style"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:80
+msgid "Same Window"
+msgstr ""
+
+#: includes/modules/MultiButtonItem/MultiButtonItem.php:81
+msgid "New Window"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:15
+msgid "ED Progress Bar"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:25
+msgid "Progress Bar Settings"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:33
+msgid "Progress Bar Styles"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:56
+msgid "Display Position"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:61
+msgid "After Header"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:64
+msgid "Select where you would like to display the bar."
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:72
+msgid "Background Color"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:81
+msgid "Progress Color"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:89
+msgid "Size"
+msgstr ""
+
+#: includes/modules/ProgressBar/ProgressBar.php:105
+msgid "Bar Radius"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:15
+msgid "ED Scrolling Text"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:26
+msgid "Scrolling Content"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:30
+msgid "Scrolling Text Settings"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:45
+msgid "Scrolling"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:97
+msgid "Scrolling Text"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:107
+msgid "Scrolling Direction"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:116
+msgid "Choose Scrolling Text Direction"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:121
+msgid "Enable Scrolling Text Outline"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:131
+msgid "Enable Scrolling Text Outline for better look."
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:135
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:145
+msgid "You can pause Scrolling on Hover by enabling this option."
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:150
+msgid "Repeat Scrolling Text"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:160
+msgid "You will need more repeats to create the infinite scrolling effect."
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:165
+msgid "Scrolling Text Speed"
+msgstr ""
+
+#: includes/modules/ScrollingText/ScrollingText.php:177
+msgid "Choose the speed for your scrolling text in milliseconds."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:15
+msgid "ED Twitter Feed"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:21
+msgid "Twitter Feed"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:22
+msgid "Elements"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:23
+msgid "Grid Settings"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:29
+#: includes/modules/TwitterFeed/TwitterFeed.php:632
+msgid "Tweets Box"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:30
+msgid "User Avatar"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:32
+msgid "User Text"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:36
+msgid "Name"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:39
+msgid "Username"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:48
+msgid "Description"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:51
+msgid "Read More"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:54
+msgid "Date"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:58
+msgid "Footer"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:70
+msgid "User Name"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:73
+#: includes/modules/TwitterFeed/TwitterFeed.php:240
+msgid "Use @ sign with your Twitter user name."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:79
+msgid "Consumer Key"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:80
+#: includes/modules/TwitterFeed/TwitterFeed.php:90
+msgid "."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:89
+msgid "Consumer Secret"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:100
+msgid "Sort By"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:101
+msgid "Choose how your feed should be sorted."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:105
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:106
+msgid "Old Posts"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:107
+msgid "Favorite"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:108
+msgid "Retweet"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:115
+msgid "Number of tweets to show"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:116
+msgid "Choose how much posts you would like to display per List."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:130
+msgid "Show Twitter Logo"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:131
+msgid "Here you can choose whether twitter logo should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:143
+msgid "Show User Image"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:144
+msgid "Here you can choose whether user image should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:156
+msgid "Show Name"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:157
+msgid "Here you can choose whether name should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:169
+msgid "Show User Name"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:170
+msgid "Here you can choose whether user name should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:182
+msgid "Show Date"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:183
+msgid "Here you can choose whether date should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:195
+msgid "Show Favorite"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:196
+msgid "Here you can choose whether favorite should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:208
+msgid "Show Retweet"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:209
+msgid "Here you can choose whether retweet should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:221
+msgid " Show Read More"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:222
+msgid "Here you can choose whether readmore should be displayed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:236
+msgid "Read More Text"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:237
+msgid "Define your custom readmore text."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:250
+msgid "Numbers of Column"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:251
+msgid "Define column numbers per row."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:265
+msgid "Column Gap Left/Right"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:266
+msgid "Define left/right column spacing."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:279
+msgid "Column Gap Top/Bottom"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:280
+msgid "Define top/bottom column spacing."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:294
+msgid "Avatar Position"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:295
+msgid ""
+"Here you can define avatar position. By selecting absolute position avatar "
+"can be placed any where on the feed."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:299
+msgid "Normal"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:300
+msgid "Absolute"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:307
+msgid "Avatar Placement"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:308
+msgid "Here you can define avatar placement."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:325
+msgid "Avatar Offset X"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:326
+msgid "Define avatar horizontal offset value."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:342
+msgid "Avatar Offset Y"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:343
+msgid "Define avatar vertical offset value."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:360
+msgid "Profile Image Size"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:361
+msgid "Here you can define custom size for your avatar."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:374
+msgid "Avatar Spacing"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:375
+msgid "Define avatar spacing gap."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:393
+msgid "Align content to the left, right or center."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:404
+msgid "Twitter Icon Size"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:405
+msgid "Here you can define custom size for your twitter icon."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:418
+msgid "Tweets Padding"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:419
+msgid "Here you can define custom padding for your tweets content."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:429
+msgid "Bottom Spacing"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:430
+msgid ""
+"Here you can define a custom spacing at the bottom of the description text."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:446
+msgid "Footer Alignment"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:447
+msgid "Define footer content alignment from the list."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:456
+msgid "Space Around"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:457
+msgid "Space Between"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:462
+msgid "Footer Padding"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:463
+msgid "Define custom padding for the footer content."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:472
+msgid "Favorite Text Color"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:473
+msgid "Here you can define custom color for favorite text."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:483
+msgid "Favorite Text Size"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:484
+msgid "Here you can define custom size for favorite text."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:499
+msgid "Favorite Icon Color"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:500
+msgid "Here you can define custom color for favorite icon."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:510
+msgid "Favorite Icon Size"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:511
+msgid "Here you can define custom size for favorite icon."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:526
+msgid "Retweet Text Color"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:527
+msgid "Here you can define custom color for retweet text."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:536
+msgid "Retweet Text Size"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:537
+msgid "Here you can define custom size for retweet text."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:552
+msgid "Retweet Icon Color"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:553
+msgid "Here you can define custom color for retweet icon."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:562
+msgid "Retweet Icon Size"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:563
+msgid "Here you can define custom size for retweet icon."
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:605
+msgid "Tweets"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:653
+msgid "Avatar"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:667
+msgid "Tweets Box Shadow"
+msgstr ""
+
+#: includes/modules/TwitterFeed/TwitterFeed.php:677
+msgid "Avatar Box Shadow"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:15
+msgid "ED Typing Text"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:25
+#: includes/modules/TypingText/TypingText.php:84
+msgid "Typing Text"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:33
+msgid "Typing Pointer Styles"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:36
+msgid "Typing Animation"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:51
+msgid "Typing"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:94
+msgid "Use Loop"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:103
+msgid "If enabled, typing effect will loop infinite."
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:108
+msgid "Typing Speed (in ms)"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:123
+msgid "Typing Backspeed (in ms)"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:138
+msgid "Back delay (in ms)"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:148
+msgid "Time before backspacing"
+msgstr ""
+
+#: includes/modules/TypingText/TypingText.php:154
+msgid "Cursor Color"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:15
+msgid "ED Video Lightbox"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:25
+msgid "Video Content"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:26
+msgid "Lightbox Settings"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:34
+msgid "Lightbox Style"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:37
+msgid "Icon Style"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:77
+msgid "Video"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:81
+msgid "Upload a video"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:82
+msgid "Choose a Video MP4 File"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:83
+msgid "Set As Video"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:84
+msgid ""
+"Upload your desired video in .MP4 format, or type in the URL to the video "
+"you would like to display"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:85
+msgid "Add your video here"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:92
+msgid "Play Button Type"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:97
+msgid "Type 1"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:98
+msgid "Type 2"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:100
+msgid "Select your play button type."
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:132
+msgid "Backrgound Image Zoom"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:161
+msgid "Lightbox Background"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:169
+msgid "Close Icon"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:186
+msgid "Icon Background"
+msgstr ""
+
+#: includes/modules/VideoLightBox/VideoLightBox.php:193
+msgid "Icon Border"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Exclusive Divi"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.exclusivedivi.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Exclusive Divi Modules"
+msgstr ""

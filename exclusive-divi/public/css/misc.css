@@ -1,0 +1,71 @@
+/*
+Progress Bar
+*/
+.edm_progressbar_bar {
+    width: 100%;
+    padding: 4px;
+}
+
+.edm_progressbar_inner {
+    width: 100%;
+}
+.edm_progressbar_bar {
+    width: 0;
+}
+.edm_drop_cap_letter {
+    float: left;
+}
+.edm-business-hour-child {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.edm-business-hour-separator {
+    flex: 1 1;
+}
+.edm-business-hour-day,
+.edm-business-hour-hour {
+    line-height: 1;
+}
+.edm-business-hour-child {
+    border-style: solid;
+}
+.edm-business-hour-title {
+    border-style: solid;
+}
+
+.edm-business-hour-title h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 26px;
+}
+
+.edm-business-hour-day,
+.edm-business-hour-time {
+    font-size: 14px;
+}
+
+.edm_business_hour
+    .edm-business-hour
+    .edm-business-hour-content
+    .edm_business_hour_child:last-child {
+    margin-bottom: 0 !important;
+}
+
+.edm_business_hour
+    .edm-business-hour
+    .edm-business-hour-content
+    .edm_business_hour_child:last-child:after {
+    display: none;
+    opacity: 0;
+}
+
+.edm_business_hour_child {
+    position: relative;
+}
+
+.edm_business_hour_child:after {
+    width: 100%;
+    left: 0;
+}
