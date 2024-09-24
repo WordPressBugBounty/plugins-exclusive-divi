@@ -4,7 +4,7 @@ Plugin Name: Exclusive Divi
 Plugin URI:  http://www.exclusivedivi.com/
 Description: Exclusive Divi Modules 
 Version:     1.4
-Author:      Exclusive Divi
+Author:      WP Mario
 Author URI:  http://www.exclusivedivi.com/
 License:     GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html

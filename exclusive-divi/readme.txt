@@ -1,9 +1,9 @@
-=== Exclusive Divi Modules for Divi Theme, Divi Builder and Extra Theme ===
-Contributors: exclusivedivi
+=== Exclusive Divi - Divi Preloader, Modules for Divi & Extra Theme ===
+Contributors: wpmariocom
 Donate link: https://exclusivedivi.com/
 Tags: divi, divi builder, divi modules, divi theme, divi module
 Requires at least: 5.0
-Tested up to: 6.6.1
+Tested up to: 6.6.2
 Stable tag: trunk
 Requires PHP: 7.0
 License: GPLv2 or later
